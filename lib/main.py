@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Informations de connexion
-instagram_username = "fcsdevelopper"
-instagram_password = "YYwKtR8Rwz5-jIL"
+instagram_username = ""
+instagram_password = ""
 
 # Liste de mots-clés pour diversifier la recherche
 keywords = ["artisan plombier", "électricien", "chauffagiste", "couvreur"]
